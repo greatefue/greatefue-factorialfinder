@@ -1,0 +1,38 @@
+{
+  "name": "greatefue-factorialfinder",
+  "version": "1.0.0",
+  "description": "greatefue-factorialfinder find and return the factorial of a given number ",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "factorialfinder \"Error: no test specified\" && exit 1",
+    "lint": "eslint \"**\\*.ts\""
+  },
+  "files": [
+    "dist",
+    "LICENSE",
+    "README.md",
+    "AUTHORS.txt"
+  ],
+  "keywords": [
+    "factorialfinder",
+    "factorial",
+    "front-end",
+    "calculation",
+    "maths"
+  ],
+  "author": "Great Efue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://"
+  },
+  "dependencies": {
+    "@typescript-eslint/parser": "^4.19.0",
+    "typescript": "^4.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.35",
+    "@typescript-eslint/eslint-plugin": "^4.19.0",
+    "eslint": "^7.22.0"
+  }
+}
