@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">Great Efue Number Factorial Finder</h1>
 
 <!-- <p align="center">An ESLint parser which leverages <a href="https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/typescript-estree">TypeScript ESTree</a> to allow for ESLint to lint TypeScript source code.</p> -->
@@ -10,7 +7,8 @@
 <p align="center">
     <!-- <img src="https://github.com/typescript-eslint/typescript-eslint/workflows/CI/badge.svg" alt="CI" /> -->
     <a href="https://www.npmjs.com/package/greatefue-factorialfinder"><img src="https://img.shields.io/npm/v/greatefue-factorialfinder.svg?style=flat-square" alt="NPM Version" /></a>
-    <a href="https://www.npmjs.com/package/greatefue-factorialfinder"><img src="https://img.shields.io/npm/dm/greatefue-factorialfinder.svg?style=flat-square" alt="NPM Downloads" /></a>
+    <a href="https://www.npmjs.com/package/greatefue-factorialfinder"><img src="https://img.shields.io/npm/dm/greatefue-factorialfinder.svg?style=flat-square" alt="NPM Downloads" /></a><a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fgreatefue%2Fgreatefue-factorialfinder?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgreatefue%2Fgreatefue-factorialfinder.svg?type=shield"/></a>
+
 </p>
 
 <!-- ## Getting Started -->
@@ -243,6 +241,9 @@ Please use the `@typescript-eslint/parser` issue template when creating your iss
 ## License
 
 TypeScript ESLint Parser is licensed under a permissive BSD 2-clause license.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgreatefue%2Fgreatefue-factorialfinder.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgreatefue%2Fgreatefue-factorialfinder?ref=badge_large)
 
 ## Contributing
 
